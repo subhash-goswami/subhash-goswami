@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Node, etc**
 
-- 🤝 I’m looking for help with **Python, Django, Fast, Flask, Machine Learning, ReactJS, React Native, etc**
+- 🤝 I’m looking for help with **Python, Django, FastAPI, Flask, Machine Learning, ReactJS, React Native, etc**
 
 - 👨‍💻 All of my projects are available at [https://subhash-goswami.github.io/](https://subhash-goswami.github.io/)
 
