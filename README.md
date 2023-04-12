@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/subhash-goswami-60517919a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhash-goswami-60517919a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16000916/subhash-goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16000916/subhash-goswami" height="30" width="40" /></a>
 <a href="https://fb.com/goswami.subhash.subhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="goswami.subhash.subhash" height="30" width="40" /></a>
-<a href="https://instagram.com/mr._.perfect._.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_subhash_goswami" height="30" width="40" /></a>
+<a href="https://instagram.com/the_subhash_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_subhash_goswami" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
