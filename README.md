@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhash-goswami" alt="subhash-goswami" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_subhashgoswami" target="blank"><img src="https://img.shields.io/twitter/follow/_subhashgoswami?logo=twitter&style=for-the-badge" alt="_subhashgoswami" /></a> </p>
+<p align="left"> <a href="https://github.com/subhash-goswami" target="blank"><img src="https://img.shields.io/github/followers/subhash-goswami?style=social" alt="subhash-goswami" /></a> </p>
 
 - 🔭 I’m currently working on **Full-Stack Projects**
 
